@@ -1,5 +1,13 @@
 # Performance & Best Practices: Angular Lab
 
+## Introduction
+
+In this lab, you will take the provided legacy To-Do application and refactor it to meet modern Angular performance and architectural standards. The existing code contains severe anti-patterns that lead to poor performance, unnecessary change detection cycles, and poor maintainability. Your goal is to transform the application into a high-performance, maintainable, and architecturally sound Angular application.
+
+Project Code:  [GitHub]( abdulrashid232/performance-and-best-practices-angular)
+
+---
+
 ## Learning Objectives
 
 By the end of this lab, you should be able to:
@@ -9,14 +17,6 @@ By the end of this lab, you should be able to:
 - Implement efficient RxJS practices using the async pipe to manage subscriptions automatically.  
 - Refactor monolithic components into reusable, dumb components and maintainable services.  
 - Implement basic security best practices like input sanitization to prevent XSS vulnerabilities.  
-
----
-
-## Introduction
-
-In this lab, you will take the provided legacy To-Do application and refactor it to meet modern Angular performance and architectural standards. The existing code contains severe anti-patterns that lead to poor performance, unnecessary change detection cycles, and poor maintainability. Your goal is to transform the application into a high-performance, maintainable, and architecturally sound Angular application.
-
-Project Code:  [GitHub]( abdulrashid232/performance-and-best-practices-angular)
 
 ---
 
