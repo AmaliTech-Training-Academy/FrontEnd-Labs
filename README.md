@@ -97,3 +97,26 @@ This space contains all modules and lab exercises across Foundation, Angular, an
 - 🧪 [Testing React Applications](React/Testing%20(React)/Testing%20React%20Applications.md)
 
 ---
+
+# BackEnd for FrontEnd Engineers
+---
+### Advanced Backend Concepts
+- 🧪 [Media Library API](BackEnd-for-FrontEnd-Engineers/Advanced-Backend-Concepts/Media%20Library%20API.md)
+
+### Authentication & Security
+- 🧪 [Task Tracker with Authentication](BackEnd-for-FrontEnd-Engineers/Authentication-and-Security/Task-Tracker-with-Authentication.md)
+
+### Data Persistence & Databases
+- 🧪 [Task Tracker – Database](BackEnd-for-FrontEnd-Engineers/Data-Persistence-and-Databases/Task-Tracker-Database.md)
+
+### FrontEnd Integration
+- 🧪 [Full-Stack Kanban Task Management Application](BackEnd-for-FrontEnd-Engineers/FronEnd-Integration/Full-Stack%20Kanban%20Task%20Mgt.md)
+
+### RESTful APIs with Express.js
+- 🧪 [Lab 1 - Enterprise-Grade URL Shortener Microservice](BackEnd-for-FrontEnd-Engineers/RESTful-APIs-with-Express.js/Enterprise-Grade.md)
+
+
+### Testing & Deployment
+- 🧪 [Testing, Deployment & Monitoring — Media Library API](BackEnd-for-FrontEnd-Engineers/Testing-and-Deployment/Media-Library-API.md)
+
+---
